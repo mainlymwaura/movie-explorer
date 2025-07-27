@@ -1,3 +1,21 @@
+# 🎬 Movie Explorer
+
+A React-based movie browsing app using TMDb API.
+
+## Features
+
+-  Live search movies by title
+-  Browse popular films via TMDb
+-  Built with React + Axios
+-  Clean UI with hover animations
+-  Deployed on GitHub Pages
+
+## Setup
+
+```bash
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
