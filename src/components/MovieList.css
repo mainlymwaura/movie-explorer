@@ -1,0 +1,14 @@
+.movie-list {
+  padding: 20px;
+}
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+input {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 250px;
+  border-radius: 5px;
+}
